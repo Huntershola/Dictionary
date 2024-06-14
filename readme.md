@@ -28,7 +28,7 @@ The application has a clean and straightforward design:
 This application is a helpful tool for learners, writers, and anyone looking to expand their vocabulary and understanding of the English language.
 
 ## Live Demo
-You can access the live demo of the Dictionary Application [here](https://your-netlify-link.netlify.app).
+You can access the live demo of the Dictionary Application [Dictionary](https://word-apps.netlify.app/).
 
 ## License
 This project is licensed under the MIT License.
